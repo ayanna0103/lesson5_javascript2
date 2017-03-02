@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 1, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Ayanna Chukes)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I think that this project was to give us practice with working with different codes and to create a working income tax calculator)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ayanna0103.github.io/lesson5_javascript2/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that I need help or at least more detailed instructions because I did not know if I needed to do a certain code for each of the categories or not.
+2. I learned the calculations behind calculating income tax.
+3. I learned that there is actually an income tax calculator because I did not know that they existed.
